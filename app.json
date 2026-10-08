@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Arturo Ruedas",
+    "slug": "aplicacion-arturoRuedas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/icon.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#0c2b2a"
+    },
+    "web": {
+      "favicon": "./assets/icon.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a0b0f97-c440-42f9-afaf-b0c781f4a2fd"
+      }
+    },
+    "android": {
+      "package": "com.juandavidgil.aplicacionarturoRuedas",
+      "permissions": ["NOTIFICATIONS"],
+  "googleServicesFile": "android/app/google-services.json",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "whatsapp"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    }
+  }
+}
