@@ -43,8 +43,28 @@ y componentes, la visualización de bicicletas en 3D, guías técnicas por compo
 
 ### Videos de la app
 
-<!-- PENDIENTE: videos de la presentación original (comprar, vender, aprende más, asistente IA y comparativa con visor 3D). -->
-_Próximamente: grabaciones cortas de la app en funcionamiento._
+Tomados de la presentación del proyecto (cada GIF enlaza al video MP4 completo). En los videos se difuminó la pantalla
+del teléfono en los tramos donde aparecían contactos y archivos personales.
+
+**Comprar** — buscar un componente, agregarlo al carrito y contactar al vendedor por WhatsApp. [Ver video (MP4)](docs/videos/01-comprar.mp4)
+
+[![Comprar](docs/gifs/01-comprar.gif)](docs/videos/01-comprar.mp4)
+
+**Vender** — publicar un artículo con sus datos y fotos desde la galería del teléfono. [Ver video (MP4)](docs/videos/02-vender.mp4)
+
+[![Vender](docs/gifs/02-vender.gif)](docs/videos/02-vender.mp4)
+
+**Aprender más** — información del componente y guía paso a paso de cómo colocarlo. [Ver video (MP4)](docs/videos/03-aprende-mas.mp4)
+
+[![Aprender más](docs/gifs/03-aprende-mas.gif)](docs/videos/03-aprende-mas.mp4)
+
+**Asistente con IA** — chat para resolver dudas sobre bicicletas y componentes. [Ver video (MP4)](docs/videos/04-asistente-ia.mp4)
+
+[![Asistente con IA](docs/gifs/04-asistente-ia.gif)](docs/videos/04-asistente-ia.mp4)
+
+**Visor 3D** — recorrido por los estilos de bicicleta (MTB, ruta y piñón fijo) con modelos 3D. [Ver video (MP4)](docs/videos/05-visor-3d.mp4)
+
+[![Visor 3D](docs/gifs/05-visor-3d.gif)](docs/videos/05-visor-3d.mp4)
 
 ## Stack
 
