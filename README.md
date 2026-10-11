@@ -66,6 +66,13 @@ del teléfono en los tramos donde aparecían contactos y archivos personales.
 
 [![Visor 3D](docs/gifs/05-visor-3d.gif)](docs/videos/05-visor-3d.mp4)
 
+### Presentación del proyecto
+
+**Presentación del proyecto (PDF)** — el pitch completo de Arturo Ruedas (32 páginas): oportunidad de mercado, funcionalidades,
+competencia y stack. [Abrir la presentación (PDF)](docs/presentacion/pitch-arturo-ruedas.pdf)
+
+_Se omitió la página del equipo de desarrollo por privacidad; los créditos con nombres y roles están al final de este README._
+
 ## Stack
 
 | Capa | Tecnología |
